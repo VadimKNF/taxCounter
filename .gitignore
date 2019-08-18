@@ -2,5 +2,5 @@ out/
 .idea/
 calcrepo.iml/
 README.md/
-
+src/META-INF
 !src/**/*.java
