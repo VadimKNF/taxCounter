@@ -2,4 +2,5 @@ out/
 .idea/
 calcrepo.iml/
 README.md/
-!src/*.java
+src/
+!src/**/*.java
