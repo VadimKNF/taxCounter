@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="calcrepo:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/calcrepo_jar</output-path>
-    <root id="archive" name="calcrepo.jar">
-      <element id="module-output" name="calcrepo" />
-    </root>
-  </artifact>
-</component>
